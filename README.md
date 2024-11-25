@@ -1,2 +1,2 @@
 # ✅ Achievement unlocked!
-➤ Make the game "tic-tac-toe" under an hour.
+➤ Make the game "Tic-tac-toe" under an hour.
